@@ -8,6 +8,6 @@ https://printronald.github.io/ProLaNEFLA/
 https://github.com/PrintRonald/ProLaNEFLA
 
 
-Se elimins el srchivo ayuda1.html para mantener una buena estructura del conjunto de archivos que
+Se elimina el srchivo ayuda1.html para mantener una buena estructura del conjunto de archivos que
 componen el sitio web.
 
