@@ -49,3 +49,18 @@ body {
     max-width: 50%;
     margin-bottom: 1.25em;
 }
+
+@media screen and (max-width:800px){
+
+    .peliculas-recomendadas .carrusel {
+        display:grid;
+        grid-template-columns: repeat(3,1fr);
+        gap: 20px;
+    }
+
+    .peliculas-recomendadas {
+        overflow: visible;
+    }
+
+    
+}
