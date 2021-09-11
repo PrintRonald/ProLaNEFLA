@@ -23,4 +23,15 @@ https://printronald.github.io/ProLaNEFLA/
 # Ruta a repositorio de GitHub:
 https://github.com/PrintRonald/ProLaNEFLA
 
+# Se agrega un botón para cambiar el fondo de pantalal en la página galeria.html y se agregan las páginas de reproducción de cada trailers
+
+Se agregan funcionalidades que tienen que ver con la interacción con el ususario para que tenga una mejor experiencia.
+
+# Ruta a Git Hub pages:
+https://printronald.github.io/ProLaNEFLA/
+
+
+# Ruta a repositorio de Git Hab:
+https://github.com/PrintRonald/ProLaNEFLA
+
 
