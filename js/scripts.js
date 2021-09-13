@@ -1,3 +1,9 @@
+$(document).ready(function(){
+  $("button").click(function(){
+    $("#off").hide();
+  });
+});
+
 var myVar = setInterval(myTimer, 1000);
 
 function myTimer() {
@@ -26,6 +32,8 @@ function myFunction() {
     document.body.style.background = color;
     document.getElementById("hexadecimal").innerHTML = color;
   }
+
+ 
 
   
 
