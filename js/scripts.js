@@ -79,7 +79,6 @@ function myFunction() {
     }
   
     document.body.style.background = color;
-    document.getElementById("hexadecimal").innerHTML = color;
   }
 
   const myCarousel = new Carousel(document.querySelector("#myCarousel"), {
