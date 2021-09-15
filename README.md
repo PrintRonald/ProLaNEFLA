@@ -34,4 +34,16 @@ https://printronald.github.io/ProLaNEFLA/
 # Ruta a repositorio de Git Hab:
 https://github.com/PrintRonald/ProLaNEFLA
 
+# Sa agrega un plugin de fancybox 
+En la secciín de galería de la página web se integra un carrusel extraido desde
+fancybox, aplicando Jquery.
+
+# Ruta a GitHub pages:
+https://printronald.github.io/ProLaNEFLA/
+
+# Ruta a repositorio de GitHub:
+https://github.com/PrintRonald/ProLaNEFLA
+
+
+
 
