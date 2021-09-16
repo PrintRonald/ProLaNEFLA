@@ -97,6 +97,9 @@ function myFunction() {
         if (carousel.$index) {
           carousel.$index.innerHTML = carousel.page + 1;
         }
+        if (carousel.$index) {
+          carousel.$index.innerHTML = "no mostrar nada";
+        }
       },
     },
   });
