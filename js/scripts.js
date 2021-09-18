@@ -1,8 +1,4 @@
 $(document).ready(function(){
-  $("button").click(function(){
-    $("#off").hide();
-  });
-
   $("#flip").mouseenter(function(){
     $("#panel").slideToggle("slow");
   })
